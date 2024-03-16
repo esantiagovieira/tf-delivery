@@ -1,0 +1,3 @@
+/db/*terraform*
+/app/*terraform*
+/infra/*terraform*
